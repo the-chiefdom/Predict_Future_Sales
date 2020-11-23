@@ -8,7 +8,8 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 ### Capstone II
 ---  
 
-#### Pipeline  
+#### Pipeline 
+- StandardScaler
 - PCA
 - Model
 
