@@ -11,6 +11,7 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 #### Pipeline 
 - StandardScaler
 - PCA
+- Cross Validation
 - Model
 
 <br></br>
