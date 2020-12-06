@@ -9,10 +9,13 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 ---  
 
 #### Pipeline 
+- Remove Autocorrelation
 - StandardScaler
 - PCA
 - Cross Validation
-- Model
+- Model  
+  - Random Forest
+  - LSTM Deep learning
 
 <br></br>
 ***Multi Target Model***  
