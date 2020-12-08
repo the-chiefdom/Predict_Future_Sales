@@ -15,10 +15,9 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 - StandardScaler
 - PCA
 - Cross Validation
-- Model  
+- Multi Target Model  
   - Random Forest
   - LSTM Deep learning
 
-<br></br>
-***Multi Target Model***  
+
 
