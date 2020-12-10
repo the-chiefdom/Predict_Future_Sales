@@ -2,6 +2,8 @@ wrangled_data/*.csv
 csv_folder/*
 submission_files/*
 
+*.csv
+
 *.ipynb_checkpoints
 *.DS_Store
 
