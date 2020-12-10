@@ -1,4 +1,4 @@
-wrangled_data/*
+wrangled_data/*.csv
 csv_folder/*
 submission_files/*
 
