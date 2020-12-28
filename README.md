@@ -12,7 +12,7 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
 ##### Pipeline 
 - Remove Autocorrelation
-- StandardScaler
+- RobustScaler
 - PCA
 - Cross Validation
 - Multi Target Model  
