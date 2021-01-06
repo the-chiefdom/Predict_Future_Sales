@@ -12,10 +12,15 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
 ##### Pipeline 
 - Remove Autocorrelation
-- RobustScaler
-- PCA
-- Cross Validation
-- Multi Target Model  
+  - Stationarity
+- Standardize
+  - RobustScaler
+  - Normalizer
+- Decorrelate
+  - PCA
+  - Auto Encoder
+- Time Series Generator
+- Training Models  
   - Random Forest
   - LSTM Deep learning
 
