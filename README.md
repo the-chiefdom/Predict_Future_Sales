@@ -5,8 +5,16 @@ Harnessing the power of machine learning this project offers retail stores a mor
 
 ---
 ### Summary
-A model developed for the Kaggle Competition 'Predict Future Sales'  
-https://www.kaggle.com/c/competitive-data-science-predict-future-sales 
+1. Purpose, motivation and description:  
+2.Data acquisition:  
+3.Data management:  
+4.Data cleaning:  
+5.Exploratory Data Analysis:​  
+6.Feature Selection:  
+7.Modeling:  
+8.Evaluation:  
+9.Communicating Findings: 
+10.Conclusion and Summary:  
 
 <br>
 
