@@ -6,17 +6,16 @@ Harnessing the power of machine learning this project offers retail stores a mor
 ---
 ### Summary
 1. Purpose, motivation and description:  
-2.Data acquisition:  
-3.Data management:  
-4.Data cleaning:  
-5.Exploratory Data Analysis:​  
-6.Feature Selection:  
-7.Modeling:  
-8.Evaluation:  
-9.Communicating Findings: 
-10.Conclusion and Summary:  
+2. Data acquisition:  
+3. Data management:  
+4. Data cleaning:  
+5. Exploratory Data Analysis:​  
+6. Feature Selection:  
+7. Modeling:  
+8. Evaluation:  
+9. Communicating Findings: 
+10. Conclusion and Summary:  
 
-<br>
 
 ##### Pipeline 
 - Remove Autocorrelation
