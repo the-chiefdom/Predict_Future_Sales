@@ -9,7 +9,7 @@ Harnessing the power of machine learning this project offers retail stores a mor
 2. Data acquisition:  
 3. Data management:  
 4. Data cleaning:  
-5. Exploratory Data Analysis:​  
+5. Exploratory Data Analysis:  
 6. Feature Selection:  
 7. Modeling:  
 8. Evaluation:  
