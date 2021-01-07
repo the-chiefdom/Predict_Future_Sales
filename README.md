@@ -19,7 +19,8 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 - Decorrelate
   - PCA
   - Auto Encoder
-- Time Series Generator
+- Singular Value Decomposition
+  - Time Series Generator
 - Training Models  
   - Random Forest
   - LSTM Deep learning
