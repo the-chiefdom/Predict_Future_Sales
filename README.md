@@ -8,7 +8,7 @@ Harnessing the power of machine learning this project offers retail stores a mor
 A model developed for the Kaggle Competition 'Predict Future Sales'  
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales 
 
-<br></br>
+<br>
 
 ##### Pipeline 
 - Remove Autocorrelation
