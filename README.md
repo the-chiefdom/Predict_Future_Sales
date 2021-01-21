@@ -18,7 +18,7 @@ Harnessing the power of machine learning this project offers retail stores a mor
 10. Conclusion and Summary:  
 
 
-___Pipeline____ 
+___Pipeline___ 
 - Remove Autocorrelation
   - Stationarity
 - Standardize
