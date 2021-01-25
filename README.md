@@ -8,6 +8,7 @@ Harnessing the power of machine learning this project offers retail stores a mor
 1. Purpose, motivation and description: 
 > ...
 2. Data acquisition:  
+> ...
 3. Data management:  
 4. Data cleaning:  
 5. Exploratory Data Analysis:  
