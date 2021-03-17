@@ -4,7 +4,8 @@
 Harnessing the power of machine learning this project offers retail stores a more efficient solution to their supply chain by identifying future sales of inventory. Allowing retailers to act preemptively and avoid negative effects from a bull whip along the supply chain.  
 
 ---  
-___Pipeline___  
+### Pipeline  
+
 ![banner](Project_Pipeline_Diagram.png)  
 
 - Remove Autocorrelation
