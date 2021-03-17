@@ -6,7 +6,7 @@ Harnessing the power of machine learning this project offers retail stores a mor
 ---  
 ### Pipeline  
 
-![banner](Project_Pipeline_Diagram.png)  
+![banner](predict_sales_diagram.png)  
 
 - Remove Autocorrelation
   - Stationarity
