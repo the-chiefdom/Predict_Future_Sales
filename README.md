@@ -1,9 +1,26 @@
 # Predict Future Sales  
 --- 
 ### Overview
-Harnessing the power of machine learning this project offers retail stores a more efficient solution to their supply chain by identifying future sales of inventory. Allowing retailers to act preemptively and avoid negative effects from a bull whip along the supply chain. 
+Harnessing the power of machine learning this project offers retail stores a more efficient solution to their supply chain by identifying future sales of inventory. Allowing retailers to act preemptively and avoid negative effects from a bull whip along the supply chain.  
 
+---  
+___Pipeline___  
 ![banner](Project_Pipeline_Diagram.png)  
+
+- Remove Autocorrelation
+  - Stationarity
+- Standardize
+  - RobustScaler
+  - Normalizer
+- Decorrelate
+  - PCA
+  - Auto Encoder
+- Singular Value Decomposition
+  - Time Series Generator
+- Training Models  
+  - Random Forest
+  - LSTM Deep learning
+ 
 
 ---
 ### Summary
@@ -21,20 +38,8 @@ Harnessing the power of machine learning this project offers retail stores a mor
 10. Conclusion and Summary:  
 
 
-___Pipeline___ 
-- Remove Autocorrelation
-  - Stationarity
-- Standardize
-  - RobustScaler
-  - Normalizer
-- Decorrelate
-  - PCA
-  - Auto Encoder
-- Singular Value Decomposition
-  - Time Series Generator
-- Training Models  
-  - Random Forest
-  - LSTM Deep learning
+
+
 
 
 
