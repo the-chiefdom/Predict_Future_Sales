@@ -35,5 +35,4 @@ ___Pipeline___
   - LSTM Deep learning
 
 
-Project_Pipeline_Diagram.png
-
+[![banner](Project_Pipeline_Diagram.png)]
