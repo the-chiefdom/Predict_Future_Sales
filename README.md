@@ -32,6 +32,7 @@ Harnessing the power of machine learning this project offers retail stores a mor
  
 
 ---
+<!-- 
 ### Summary
 1. Purpose, motivation and description: 
 > ...
@@ -45,3 +46,4 @@ Harnessing the power of machine learning this project offers retail stores a mor
 8. Evaluation:  
 9. Communicating Findings: 
 10. Conclusion and Summary:  
+-->
