@@ -8,19 +8,27 @@ Harnessing the power of machine learning this project offers retail stores a mor
 
 ![banner](predict_sales_diagram.png)  
 
-- Remove Autocorrelation
-  - Stationarity
-- Standardize
-  - RobustScaler
-  - Normalizer
-- Decorrelate
-  - PCA
-  - Auto Encoder
-- Singular Value Decomposition
-  - Time Series Generator
-- Training Models  
-  - Random Forest
-  - LSTM Deep learning
+- Data Acqisition
+  - csv files
+- Data Managment
+  - AWS EC2 instances
+- Data Clensing
+  - Remove Noise
+  - Handle Nulls
+- Preprocessing
+  - Stationlizing
+  - Standardizing 
+- Feature Selection
+  - Dimensionality Reduction
+  - Auto Encoding
+- Modeling
+  - LSTM model
+  - Cross-Validation
+  - Hyperparameter optimization
+- Evaluation
+  - Unseen Data Validation 
+  - R^2 
+  - RMSE
  
 
 ---
@@ -31,16 +39,9 @@ Harnessing the power of machine learning this project offers retail stores a mor
 > ...
 3. Data management:  
 4. Data cleaning:  
-5. Exploratory Data Analysis:  
+5. Preprocessing:  
 6. Feature Selection:  
 7. Modeling:  
 8. Evaluation:  
 9. Communicating Findings: 
 10. Conclusion and Summary:  
-
-
-
-
-
-
-
